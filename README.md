@@ -1,12 +1,8 @@
-## Hi there 👋
+## Hi Everyone 👋
+My Name is Juan David Bolaño, i consider myself a beginner in software development. I’m the kind of person who, if a topic interest me, likes to research it thoroughly to fully understand it
 
-<!--
-**Juandab2022/Juandab2022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🔭 I’m currently training to become as a coder at Riwi is company
+- 🌱 I’m currently learning more about development in the python language
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
